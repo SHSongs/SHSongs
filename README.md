@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 #### 🔭 I’m currently using ...
 * C++
-* Unity
+* Unity Engine
 * Unreal
 * Pytorch
 
 #### 🌱 I’m currently learning ...
-* Golang
+* Socket
 * Unreal Engine
 * Machine Learning
+* Graphics
