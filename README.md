@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=SHSongs&theme=tokyonight)
-
 #### 🔭 I’m currently using ...
 * C++
 * Unity Engine
