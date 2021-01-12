@@ -8,6 +8,5 @@
 * Window / Linux
 
 #### 🌱 I’m currently learning ...
-* Computer Architecture
-* Machine Learning
-* Graphics
+* Machine Learning ( Vision, Reinforcement )
+* Graphics ( DirectX12 )
