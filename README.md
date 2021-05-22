@@ -8,5 +8,7 @@
 * Window / Linux
 
 #### 🌱 I’m currently learning ...
-* Machine Learning ( Vision, Reinforcement )
-* Graphics ( DirectX12 )
+* Vision
+* Reinforcement
+* Tiny ML
+* Graphics
