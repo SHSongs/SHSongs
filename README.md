@@ -1,7 +1,7 @@
 ### [SHSongs - PASONGSONG](https://shsongs.github.io/)
 
 #### 🔭 I’m currently using ...
-* C++ / Python
+* C++ / Python / Scala
 * Unreal Engine
 * Pytorch
 * Raspberry Pi
