@@ -1,4 +1,4 @@
-### [SHSongs - PASONGSONG](https://shsongs.github.io/)
+### [SOM - PASONGSONG](https://shsongs.github.io/)
 
 #### 🔭 I’m currently using ...
 * C++ / Python / Scala
